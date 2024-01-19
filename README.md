@@ -6,4 +6,4 @@ Faça um programa para pagamento de comissão de vendedores de peças,
 # código da peça
 # preço unitário da peça
 # quantidade vendida
-## 1.000 a 5.000 5% Bom, >5000 a 50.000 10% Ótimo e >50.000 15% Execelente
+## 1.000 a 5.000 5% Bom, >5000 a 50.000 10% Ótimo e >50.000 15% Excelente
