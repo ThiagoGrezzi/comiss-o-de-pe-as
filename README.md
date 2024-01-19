@@ -1,2 +1,2 @@
-# comiss-o-de-pe-as
+# comissao de peças
 comissão de peças
